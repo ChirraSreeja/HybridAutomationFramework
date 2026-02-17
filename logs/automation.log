@@ -1,0 +1,125 @@
+2026-02-17 12:04:11 INFO  Utils:112 - [TestNG] Running:
+  D:\Ecllipse_Java\eclipse_workspace\HybridAutomationFramework\master.xml
+
+2026-02-17 12:05:16 INFO  Utils:112 - [TestNG] Running:
+  D:\Ecllipse_Java\eclipse_workspace\HybridAutomationFramework\master.xml
+
+2026-02-17 12:07:59 INFO  Utils:112 - [TestNG] Running:
+  D:\Ecllipse_Java\eclipse_workspace\HybridAutomationFramework\master.xml
+
+2026-02-17 12:24:39 INFO  Utils:112 - [TestNG] Running:
+  D:\Ecllipse_Java\eclipse_workspace\HybridAutomationFramework\master.xml
+
+2026-02-17 12:27:56 INFO  Utils:112 - [TestNG] Running:
+  D:\Ecllipse_Java\eclipse_workspace\HybridAutomationFramework\master.xml
+
+2026-02-17 12:28:11 INFO  TC_001_AccountRegistration:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-02-17 12:28:11 INFO  TC_001_AccountRegistration:21 - Clicked on MyAccount Link.. 
+2026-02-17 12:28:12 INFO  TC_001_AccountRegistration:24 - Clicked on Register Link.. 
+2026-02-17 12:28:12 INFO  TC_001_AccountRegistration:29 - Providing customer details...
+2026-02-17 12:28:14 INFO  TC_001_AccountRegistration:42 - Validating expected message..
+2026-02-17 12:28:14 INFO  TC_001_AccountRegistration:47 - Test passed
+2026-02-17 12:28:14 INFO  TC_001_AccountRegistration:57 - ***** Finished TC001_AccountRegistrationTest *****
+2026-02-17 12:28:43 INFO  Utils:112 - [TestNG] Running:
+  D:\Ecllipse_Java\eclipse_workspace\HybridAutomationFramework\master.xml
+
+2026-02-17 12:30:05 INFO  Utils:112 - [TestNG] Running:
+  D:\Ecllipse_Java\eclipse_workspace\HybridAutomationFramework\master.xml
+
+2026-02-17 12:32:59 INFO  Utils:112 - [TestNG] Running:
+  D:\Ecllipse_Java\eclipse_workspace\HybridAutomationFramework\master.xml
+
+2026-02-17 18:17:41 INFO  TC_001_AccountRegistration:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-02-17 18:17:41 INFO  TC_001_AccountRegistration:21 - Clicked on MyAccount Link.. 
+2026-02-17 18:17:43 INFO  TC_001_AccountRegistration:24 - Clicked on Register Link.. 
+2026-02-17 18:17:43 INFO  TC_001_AccountRegistration:29 - Providing customer details...
+2026-02-17 18:17:46 INFO  TC_001_AccountRegistration:42 - Validating expected message..
+2026-02-17 18:17:46 INFO  TC_001_AccountRegistration:47 - Test passed
+2026-02-17 18:17:46 INFO  TC_001_AccountRegistration:57 - ***** Finished TC001_AccountRegistrationTest *****
+2026-02-17 18:17:49 INFO  TC_002_LoginPageTest:18 - **** Starting TC_002_LoginTest  ****
+2026-02-17 18:17:50 INFO  TC_002_LoginPageTest:26 - clicked on myaccount link on the home page..
+2026-02-17 18:17:50 INFO  TC_002_LoginPageTest:28 - clicked on login link under myaccount..
+2026-02-17 18:17:50 INFO  TC_002_LoginPageTest:33 - Entering valid email and password..
+2026-02-17 18:17:51 INFO  TC_002_LoginPageTest:37 - clicked on ligin button..
+2026-02-17 18:17:52 INFO  TC_002_LoginPageTest:50 - **** Finished TC_002_LoginTest  ****
+2026-02-17 18:17:59 INFO  TC_003_LoginPageDDT:17 - **** Starting TC_003_LoginDDT *****
+2026-02-17 18:18:02 INFO  TC_003_LoginPageDDT:67 - **** Finished TC_003_LoginDDT *****
+2026-02-17 18:18:02 INFO  TC_003_LoginPageDDT:17 - **** Starting TC_003_LoginDDT *****
+2026-02-17 18:18:08 INFO  TC_003_LoginPageDDT:17 - **** Starting TC_003_LoginDDT *****
+2026-02-17 18:18:10 INFO  TC_003_LoginPageDDT:17 - **** Starting TC_003_LoginDDT *****
+2026-02-17 18:19:52 INFO  TC_003_LoginPageDDT:67 - **** Finished TC_003_LoginDDT *****
+2026-02-17 18:19:52 INFO  TC_003_LoginPageDDT:17 - **** Starting TC_003_LoginDDT *****
+2026-02-17 18:19:55 INFO  TC_003_LoginPageDDT:67 - **** Finished TC_003_LoginDDT *****
+2026-02-17 18:33:53 INFO  TC_001_AccountRegistration:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-02-17 18:33:54 INFO  TC_001_AccountRegistration:21 - Clicked on MyAccount Link.. 
+2026-02-17 18:33:55 INFO  TC_001_AccountRegistration:24 - Clicked on Register Link.. 
+2026-02-17 18:33:55 INFO  TC_001_AccountRegistration:29 - Providing customer details...
+2026-02-17 18:33:57 INFO  TC_001_AccountRegistration:42 - Validating expected message..
+2026-02-17 18:33:57 INFO  TC_001_AccountRegistration:47 - Test passed
+2026-02-17 18:33:57 INFO  TC_001_AccountRegistration:57 - ***** Finished TC001_AccountRegistrationTest *****
+2026-02-17 18:34:00 INFO  TC_002_LoginPageTest:18 - **** Starting TC_002_LoginTest  ****
+2026-02-17 18:34:00 INFO  TC_002_LoginPageTest:26 - clicked on myaccount link on the home page..
+2026-02-17 18:34:00 INFO  TC_002_LoginPageTest:28 - clicked on login link under myaccount..
+2026-02-17 18:34:00 INFO  TC_002_LoginPageTest:33 - Entering valid email and password..
+2026-02-17 18:34:01 INFO  TC_002_LoginPageTest:37 - clicked on ligin button..
+2026-02-17 18:34:02 INFO  TC_002_LoginPageTest:50 - **** Finished TC_002_LoginTest  ****
+2026-02-17 18:34:08 INFO  TC_003_LoginPageDDT:17 - **** Starting TC_003_LoginDDT *****
+2026-02-17 18:34:10 INFO  TC_003_LoginPageDDT:67 - **** Finished TC_003_LoginDDT *****
+2026-02-17 18:34:10 INFO  TC_003_LoginPageDDT:17 - **** Starting TC_003_LoginDDT *****
+2026-02-17 18:34:13 INFO  TC_003_LoginPageDDT:17 - **** Starting TC_003_LoginDDT *****
+2026-02-17 18:34:15 INFO  TC_003_LoginPageDDT:17 - **** Starting TC_003_LoginDDT *****
+2026-02-17 18:35:56 INFO  TC_003_LoginPageDDT:67 - **** Finished TC_003_LoginDDT *****
+2026-02-17 18:35:56 INFO  TC_003_LoginPageDDT:17 - **** Starting TC_003_LoginDDT *****
+2026-02-17 18:35:59 INFO  TC_003_LoginPageDDT:67 - **** Finished TC_003_LoginDDT *****
+2026-02-17 18:59:48 INFO  TC_001_AccountRegistration:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-02-17 18:59:49 INFO  TC_001_AccountRegistration:21 - Clicked on MyAccount Link.. 
+2026-02-17 18:59:50 INFO  TC_001_AccountRegistration:24 - Clicked on Register Link.. 
+2026-02-17 18:59:50 INFO  TC_001_AccountRegistration:29 - Providing customer details...
+2026-02-17 18:59:53 INFO  TC_001_AccountRegistration:42 - Validating expected message..
+2026-02-17 18:59:53 INFO  TC_001_AccountRegistration:47 - Test passed
+2026-02-17 18:59:53 INFO  TC_001_AccountRegistration:57 - ***** Finished TC001_AccountRegistrationTest *****
+2026-02-17 18:59:57 INFO  TC_002_LoginPageTest:18 - **** Starting TC_002_LoginTest  ****
+2026-02-17 18:59:58 INFO  TC_002_LoginPageTest:26 - clicked on myaccount link on the home page..
+2026-02-17 18:59:59 INFO  TC_002_LoginPageTest:28 - clicked on login link under myaccount..
+2026-02-17 18:59:59 INFO  TC_002_LoginPageTest:33 - Entering valid email and password..
+2026-02-17 19:00:01 INFO  TC_002_LoginPageTest:37 - clicked on ligin button..
+2026-02-17 19:00:01 INFO  TC_002_LoginPageTest:50 - **** Finished TC_002_LoginTest  ****
+2026-02-17 21:41:41 INFO  TC_001_AccountRegistration:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-02-17 21:41:41 INFO  TC_001_AccountRegistration:21 - Clicked on MyAccount Link.. 
+2026-02-17 21:41:42 INFO  TC_001_AccountRegistration:24 - Clicked on Register Link.. 
+2026-02-17 21:41:42 INFO  TC_001_AccountRegistration:29 - Providing customer details...
+2026-02-17 21:41:45 INFO  TC_001_AccountRegistration:42 - Validating expected message..
+2026-02-17 21:41:45 INFO  TC_001_AccountRegistration:47 - Test passed
+2026-02-17 21:41:45 INFO  TC_001_AccountRegistration:57 - ***** Finished TC001_AccountRegistrationTest *****
+2026-02-17 21:41:48 INFO  TC_002_LoginPageTest:18 - **** Starting TC_002_LoginTest  ****
+2026-02-17 21:41:49 INFO  TC_002_LoginPageTest:26 - clicked on myaccount link on the home page..
+2026-02-17 21:41:49 INFO  TC_002_LoginPageTest:28 - clicked on login link under myaccount..
+2026-02-17 21:41:49 INFO  TC_002_LoginPageTest:33 - Entering valid email and password..
+2026-02-17 21:41:51 INFO  TC_002_LoginPageTest:37 - clicked on ligin button..
+2026-02-17 21:41:51 INFO  TC_002_LoginPageTest:50 - **** Finished TC_002_LoginTest  ****
+2026-02-17 21:57:53 INFO  TC_001_AccountRegistration:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-02-17 21:57:53 INFO  TC_001_AccountRegistration:21 - Clicked on MyAccount Link.. 
+2026-02-17 21:57:54 INFO  TC_001_AccountRegistration:24 - Clicked on Register Link.. 
+2026-02-17 21:57:54 INFO  TC_001_AccountRegistration:29 - Providing customer details...
+2026-02-17 21:57:57 INFO  TC_001_AccountRegistration:42 - Validating expected message..
+2026-02-17 21:57:57 INFO  TC_001_AccountRegistration:47 - Test passed
+2026-02-17 21:57:57 INFO  TC_001_AccountRegistration:57 - ***** Finished TC001_AccountRegistrationTest *****
+2026-02-17 21:58:00 INFO  TC_002_LoginPageTest:18 - **** Starting TC_002_LoginTest  ****
+2026-02-17 21:58:00 INFO  TC_002_LoginPageTest:26 - clicked on myaccount link on the home page..
+2026-02-17 21:58:00 INFO  TC_002_LoginPageTest:28 - clicked on login link under myaccount..
+2026-02-17 21:58:00 INFO  TC_002_LoginPageTest:33 - Entering valid email and password..
+2026-02-17 21:58:02 INFO  TC_002_LoginPageTest:37 - clicked on ligin button..
+2026-02-17 21:58:03 INFO  TC_002_LoginPageTest:50 - **** Finished TC_002_LoginTest  ****
+2026-02-17 21:58:35 INFO  TC_001_AccountRegistration:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-02-17 21:58:35 INFO  TC_001_AccountRegistration:21 - Clicked on MyAccount Link.. 
+2026-02-17 21:58:36 INFO  TC_001_AccountRegistration:24 - Clicked on Register Link.. 
+2026-02-17 21:58:36 INFO  TC_001_AccountRegistration:29 - Providing customer details...
+2026-02-17 21:58:38 INFO  TC_001_AccountRegistration:42 - Validating expected message..
+2026-02-17 21:58:38 INFO  TC_001_AccountRegistration:47 - Test passed
+2026-02-17 21:58:38 INFO  TC_001_AccountRegistration:57 - ***** Finished TC001_AccountRegistrationTest *****
+2026-02-17 21:58:41 INFO  TC_002_LoginPageTest:18 - **** Starting TC_002_LoginTest  ****
+2026-02-17 21:58:41 INFO  TC_002_LoginPageTest:26 - clicked on myaccount link on the home page..
+2026-02-17 21:58:41 INFO  TC_002_LoginPageTest:28 - clicked on login link under myaccount..
+2026-02-17 21:58:41 INFO  TC_002_LoginPageTest:33 - Entering valid email and password..
+2026-02-17 21:58:42 INFO  TC_002_LoginPageTest:37 - clicked on ligin button..
+2026-02-17 21:58:43 INFO  TC_002_LoginPageTest:50 - **** Finished TC_002_LoginTest  ****
